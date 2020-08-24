@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to use Node.js 
 - 📫 How to reach me: wpah@comcast.net
 - ⚡ Fun fact: I enjoy reading about my Faith
+- My Portfolio - https://whintzen.github.io/HW_Portfolio/index.html
 
 ### Profile Info:  
 SOLUTION DELIVERY MANAGER / SCRUM MASTER
