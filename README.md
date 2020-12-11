@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently attending Rutgers University Web Development Full Stack Coding Program
-- 🔭 I’m currently working on an API project
-- 🌱 I’m currently learning how to use Node.js 
+- 🔭 I’m currently working on a React.js project
+- 🌱 I’m currently learning how to use React.js\Mern 
 - 📫 How to reach me: wpah@comcast.net
 - ⚡ Fun fact: I enjoy reading about my Faith
 - My Portfolio - https://whintzen.github.io/HW_Portfolio/index.html
